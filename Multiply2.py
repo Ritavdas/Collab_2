@@ -1,6 +1,7 @@
 # Python program to multiply two numbers using function
 def multiply(a, b):
     return a*b
+    # trying to merge.
 
 
 # num1 = int(input("input the number one: "))  # input from user for num1
